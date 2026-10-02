@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+<loc>https://zongo-is.me/</loc>
+</url>
+<url>
+<loc>https://zongo-is.me/work/clustering-lab/</loc>
+<image:image>
+<image:loc>https://zongo-is.me/media/clustering.jpg</image:loc>
+</image:image>
+</url>
+<url>
+<loc>https://zongo-is.me/work/word-embeddings/</loc>
+<image:image>
+<image:loc>https://zongo-is.me/media/word-embeddings/capabilities.webp</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://zongo-is.me/media/word-embeddings/halo-detail.webp</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://zongo-is.me/media/word-embeddings/semantic-path.webp</image:loc>
+</image:image>
+</url>
+<url>
+<loc>https://zongo-is.me/work/pathfinding/</loc>
+<image:image>
+<image:loc>https://zongo-is.me/media/pathfinding.webp</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://zongo-is.me/media/pathfinding-detail.webp</image:loc>
+</image:image>
+</url>
+<url>
+<loc>https://zongo-is.me/work/waterflow/</loc>
+<image:image>
+<image:loc>https://zongo-is.me/media/waterflow.webp</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://zongo-is.me/media/waterflow-detail.webp</image:loc>
+</image:image>
+</url>
+<url>
+<loc>https://zongo-is.me/work/connected-components/</loc>
+<image:image>
+<image:loc>https://zongo-is.me/media/connected-components/films/portrait.webp</image:loc>
+</image:image>
+</url>
+<url>
+<loc>https://zongo-is.me/work/neural-networks/</loc>
+</url>
+<url>
+<loc>https://zongo-is.me/work/reinforcement-learning/</loc>
+<image:image>
+<image:loc>https://zongo-is.me/media/q-learning.jpg</image:loc>
+</image:image>
+</url>
+<url>
+<loc>https://zongo-is.me/work/neural-network-3d/</loc>
+<image:image>
+<image:loc>https://zongo-is.me/media/neural-network/forward-pass.webp</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://zongo-is.me/media/neural-network/detail.webp</image:loc>
+</image:image>
+</url>
+<url>
+<loc>https://zongo-is.me/work/udp-messenger/</loc>
+<image:image>
+<image:loc>https://zongo-is.me/media/udp-messenger/local-delivery.webp</image:loc>
+</image:image>
+</url>
+<url>
+<loc>https://zongo-is.me/work/semaphores/</loc>
+</url>
+<url>
+<loc>https://zongo-is.me/work/memory-management/</loc>
+</url>
+<url>
+<loc>https://zongo-is.me/work/python-clustering/</loc>
+</url>
+<url>
+<loc>https://zongo-is.me/watch/mnist-neural-network/</loc>
+<video:video>
+<video:title>MNIST digits through a 3D neural network</video:title>
+<video:thumbnail_loc>https://zongo-is.me/media/neural-network/forward-pass.webp</video:thumbnail_loc>
+<video:description>Watch real handwritten inputs, hidden-layer activations and output predictions in a freshly trained browser neural network. This is a recording of a local application run. It illustrates individual predictions and network activity; it is not a benchmark of overall model accuracy.</video:description>
+<video:content_loc>https://zongo-is.me/media/neural-network/forward-pass.mp4</video:content_loc>
+<video:publication_date>2026-10-01T13:52:59+02:00</video:publication_date>
+</video:video>
+</url>
+<url>
+<loc>https://zongo-is.me/watch/word-embedding-explorer/</loc>
+<video:video>
+<video:title>Word arithmetic, neighborhoods and semantic paths</video:title>
+<video:thumbnail_loc>https://zongo-is.me/media/word-embeddings/capabilities.webp</video:thumbnail_loc>
+<video:description>A tour of three word-embedding tools: king minus man plus woman, a semantic neighborhood around greek, and a path from computer to internet. Edited from my application demonstrations. The spatial display is a projection; semantic similarity is computed in the original embedding space.</video:description>
+<video:content_loc>https://zongo-is.me/media/word-embeddings/capabilities.mp4</video:content_loc>
+<video:publication_date>2026-10-01T13:52:59+02:00</video:publication_date>
+</video:video>
+</url>
+<url>
+<loc>https://zongo-is.me/watch/dijkstra-pathfinding/</loc>
+<video:video>
+<video:title>Dijkstra’s algorithm in a 3D world</video:title>
+<video:thumbnail_loc>https://zongo-is.me/media/pathfinding.webp</video:thumbnail_loc>
+<video:description>Follow a Dijkstra traversal through buildings and trees in a 3D pathfinding visualizer, from the search frontier to the recovered route. Recorded from the current application and played at 2.5× speed. This deterministic graph-search demonstration is separate from the learning replay.</video:description>
+<video:content_loc>https://zongo-is.me/media/pathfinding.mp4</video:content_loc>
+<video:publication_date>2026-10-01T11:21:42+02:00</video:publication_date>
+</video:video>
+</url>
+<url>
+<loc>https://zongo-is.me/watch/q-learning-pathfinding/</loc>
+<video:video>
+<video:title>A learning agent: early failure to later routes</video:title>
+<video:thumbnail_loc>https://zongo-is.me/media/pathfinding-learning.webp</video:thumbnail_loc>
+<video:description>Compare episodes 1, 503 and 998 from an actual 1,000-episode learning run with seven clustered sink obstacles. An instrumented replay of the original application’s learning rule. It uses a scalar value table and is not a conventional state–action Q-table. The Field Note documents that distinction and the capture repairs.</video:description>
+<video:content_loc>https://zongo-is.me/media/pathfinding-learning.mp4</video:content_loc>
+<video:publication_date>2026-10-01T22:30:22+02:00</video:publication_date>
+</video:video>
+</url>
+<url>
+<loc>https://zongo-is.me/watch/java-waterflow/</loc>
+<video:video>
+<video:title>Water moving across Java Swing terrain</video:title>
+<video:thumbnail_loc>https://zongo-is.me/media/waterflow.webp</video:thumbnail_loc>
+<video:description>See water propagate across grayscale terrain in a Java Swing simulation built around shared state, worker threads and layered rendering. A capture of the original renderer with isolated boundary and thread-visibility repairs. The project notes explain the shared-state limitations; this is not a fluid-dynamics benchmark.</video:description>
+<video:content_loc>https://zongo-is.me/media/waterflow.mp4</video:content_loc>
+<video:publication_date>2026-10-01T11:21:42+02:00</video:publication_date>
+</video:video>
+</url>
+<url>
+<loc>https://zongo-is.me/watch/cpp-image-segmentation/</loc>
+<video:video>
+<video:title>C++ image segmentation across thresholds</video:title>
+<video:thumbnail_loc>https://zongo-is.me/media/connected-components/films/portrait.webp</video:thumbnail_loc>
+<video:description>Compare a grayscale portrait with actual C++ segmentation outputs as the threshold rises from 32 to 224. The input photograph is AI-generated. The segmentation images are actual C++ outputs. The project page includes more realistic specimens and a display-inversion control.</video:description>
+<video:content_loc>https://zongo-is.me/media/connected-components/films/portrait.mp4</video:content_loc>
+<video:publication_date>2026-10-01T13:52:59+02:00</video:publication_date>
+</video:video>
+</url>
+<url>
+<loc>https://zongo-is.me/watch/kmeans-double-helix/</loc>
+<video:video>
+<video:title>K-means on a 3D double helix</video:title>
+<video:thumbnail_loc>https://zongo-is.me/media/clustering.jpg</video:thumbnail_loc>
+<video:description>Watch K-means partition a double helix in an interactive clustering laboratory with a spatial scene and live diagnostics. A recording of the original application. This film shows K-means; the live laboratory also includes Gaussian mixtures, DBSCAN and spectral clustering.</video:description>
+<video:content_loc>https://zongo-is.me/media/clustering.mp4</video:content_loc>
+<video:publication_date>2026-10-01T11:21:42+02:00</video:publication_date>
+</video:video>
+</url>
+<url>
+<loc>https://zongo-is.me/watch/java-udp-chat/</loc>
+<video:video>
+<video:title>Direct and group messages over UDP</video:title>
+<video:thumbnail_loc>https://zongo-is.me/media/udp-messenger/local-delivery.webp</video:thumbnail_loc>
+<video:description>Two Java Swing clients exchange direct replies and a group message through a locally running UDP server. Recorded from actual Swing applications with verified local UDP delivery. The recording does not imply guaranteed packet delivery or encrypted transport.</video:description>
+<video:content_loc>https://zongo-is.me/media/udp-messenger/local-delivery.mp4</video:content_loc>
+<video:publication_date>2026-10-01T13:52:59+02:00</video:publication_date>
+</video:video>
+</url>
+<url>
+<loc>https://zongo-is.me/watch/python-grid-world/</loc>
+<video:video>
+<video:title>A Python grid-world learning history</video:title>
+<video:thumbnail_loc>https://zongo-is.me/media/q-learning.jpg</video:thumbnail_loc>
+<video:description>Watch a recorded state history from a Python Q-learning grid-world experiment with rewards and obstacles. A historical repository animation shortened for playback. The associated Field Note distinguishes Q-learning from the separate value-iteration experiment.</video:description>
+<video:content_loc>https://zongo-is.me/media/q-learning.mp4</video:content_loc>
+<video:publication_date>2026-10-01T12:07:36+02:00</video:publication_date>
+</video:video>
+</url>
+<url>
+<loc>https://zongo-is.me/watch/semantic-word-path/</loc>
+<video:video>
+<video:title>A semantic path from computer to internet</video:title>
+<video:thumbnail_loc>https://zongo-is.me/media/word-embeddings/semantic-path.webp</video:thumbnail_loc>
+<video:description>Follow computer → computers → software → ip → internet in the word-embedding explorer. Edited from my application demo recording. This is a route through word-vector relationships, not a claim that the words form a unique linguistic definition.</video:description>
+<video:content_loc>https://zongo-is.me/media/word-embeddings/semantic-path.mp4</video:content_loc>
+<video:publication_date>2026-10-01T13:52:59+02:00</video:publication_date>
+</video:video>
+</url>
+</urlset>
