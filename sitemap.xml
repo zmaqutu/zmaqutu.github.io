@@ -10,6 +10,18 @@
 </image:image>
 </url>
 <url>
+<loc>https://zongo-is.me/work/neural-network-3d/</loc>
+<image:image>
+<image:loc>https://zongo-is.me/media/neural-network/forward-pass.webp</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://zongo-is.me/media/neural-network/replay.webp</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://zongo-is.me/media/neural-network/detail.webp</image:loc>
+</image:image>
+</url>
+<url>
 <loc>https://zongo-is.me/work/word-embeddings/</loc>
 <image:image>
 <image:loc>https://zongo-is.me/media/word-embeddings/capabilities.webp</image:loc>
@@ -46,27 +58,18 @@
 </image:image>
 </url>
 <url>
+<loc>https://zongo-is.me/work/udp-messenger/</loc>
+<image:image>
+<image:loc>https://zongo-is.me/media/udp-messenger/local-delivery.webp</image:loc>
+</image:image>
+</url>
+<url>
 <loc>https://zongo-is.me/work/neural-networks/</loc>
 </url>
 <url>
 <loc>https://zongo-is.me/work/reinforcement-learning/</loc>
 <image:image>
 <image:loc>https://zongo-is.me/media/q-learning.jpg</image:loc>
-</image:image>
-</url>
-<url>
-<loc>https://zongo-is.me/work/neural-network-3d/</loc>
-<image:image>
-<image:loc>https://zongo-is.me/media/neural-network/forward-pass.webp</image:loc>
-</image:image>
-<image:image>
-<image:loc>https://zongo-is.me/media/neural-network/detail.webp</image:loc>
-</image:image>
-</url>
-<url>
-<loc>https://zongo-is.me/work/udp-messenger/</loc>
-<image:image>
-<image:loc>https://zongo-is.me/media/udp-messenger/local-delivery.webp</image:loc>
 </image:image>
 </url>
 <url>
@@ -81,11 +84,21 @@
 <url>
 <loc>https://zongo-is.me/watch/mnist-neural-network/</loc>
 <video:video>
-<video:title>MNIST digits through a 3D neural network</video:title>
+<video:title>Neural Observatory: from signals to a real update</video:title>
 <video:thumbnail_loc>https://zongo-is.me/media/neural-network/forward-pass.webp</video:thumbnail_loc>
-<video:description>Watch real handwritten inputs, hidden-layer activations and output predictions in a freshly trained browser neural network. This is a recording of a local application run. It illustrates individual predictions and network activity; it is not a benchmark of overall model accuracy.</video:description>
+<video:description>Follow the first four consecutive MNIST batches of an untrained 784–16–16–10 network through forward signals, gradients, Adam updates, and comparison. Recorded from the hosted application with default settings: Adam, learning rate 0.003, batch size 32, and seed 42. Playback stays at 1×. These early training examples and the 64-digit held-out probe do not establish full test-set accuracy.</video:description>
 <video:content_loc>https://zongo-is.me/media/neural-network/forward-pass.mp4</video:content_loc>
-<video:publication_date>2026-10-01T13:52:59+02:00</video:publication_date>
+<video:publication_date>2026-10-05T01:22:53.911Z</video:publication_date>
+</video:video>
+</url>
+<url>
+<loc>https://zongo-is.me/watch/neural-network-inspection/</loc>
+<video:video>
+<video:title>Inside a neuron: contributions, gradients and weight maps</video:title>
+<video:thumbnail_loc>https://zongo-is.me/media/neural-network/detail.webp</video:thumbnail_loc>
+<video:description>Inspect hidden neuron 2 in the fourth recorded MNIST batch, then examine the first-layer signed input-weight maps. Recorded application values. Sample neuron derivatives belong to the displayed digit; weight gradients belong to the mean batch loss. Scrubbing a committed step does not retrain the model. Weight maps are parameters, not training images.</video:description>
+<video:content_loc>https://zongo-is.me/media/neural-network/inspection.mp4</video:content_loc>
+<video:publication_date>2026-10-05T01:22:53.911Z</video:publication_date>
 </video:video>
 </url>
 <url>
